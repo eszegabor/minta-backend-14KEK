@@ -1,0 +1,42 @@
+{
+    "editor.parameterHints.enabled": true,
+    "editor.suggestSelection": "first",
+    "editor.formatOnSave": true,
+    "editor.minimap.enabled": false,
+    "editor.mouseWheelZoom": true,
+    "editor.wordWrap": "on",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": true,
+    "eslint.alwaysShowStatus": true,
+    "eslint.validate": [
+      "javascript",
+      "typescript",
+      "vue"
+    ],
+    "files.autoSave": "afterDelay",
+    "files.eol": "\r\n",
+    "git.autofetch": true,
+    "git.autofetchPeriod": 60,
+    "git.pruneOnFetch": true,
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "html.format.wrapLineLength": 0,
+    "html.suggest.html5": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": "explicit"
+    },
+    "[html]": {
+      "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[jsonc]": {
+      "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "branchwarnings.suppressPopup": true,
+    "githubPullRequests.createOnPublishBranch": "never",
+    "redhat.telemetry.enabled": false,
+    "workbench.editor.enablePreview": false,
+  
+    "liveServer.settings.donotShowInfoMsg": true,
+    "workbench.startupEditor": "none",
+}
